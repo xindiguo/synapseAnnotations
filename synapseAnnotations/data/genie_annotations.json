@@ -1,0 +1,21 @@
+{
+  "center": [
+    "NKI",
+    "DFCI",
+    "GRCC",
+    "JHU",
+    "MSK",
+    "UHN",
+    "VICC",
+    "MDA"
+  ],
+  "cBioFileFormat": [
+    "clinical",
+    "CNA",
+    "fusions"
+  ],
+  "fileStage" : [
+    "staging",
+    "release"
+  ]
+}
